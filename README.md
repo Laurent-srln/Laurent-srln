@@ -8,7 +8,7 @@ Après avoir accompagné l’hyper croissance d’une start-up (8M€ levés) du
 
 Pour préparer ma reconversion, j'ai suivi la formation "Développeur Web Fullstack JS" de l'école O'clock et la spécialisation "API et data". Ces 700 heures de formation en téléprésentiel m'ont permis d'acquérir les bases techniques les savoir-faire et les savoir-être indispensables au métier de développeur.
 
-Rigoureux, curieux, autonome et proactif, j'aime apporter mon aide à mes collaborateurs en proposant des solutions pertinentes et adaptées aux problématiques rencontrées. 
+Rigoureux, curieux, autonome et proactif, j'aime apporter mon aide à mes collaborateurs en proposant des solutions pertinentes et adaptées aux problématiques rencontrées.
 
 ### :wrench: :hammer: Langages & Stack
 
@@ -20,6 +20,8 @@ Rigoureux, curieux, autonome et proactif, j'aime apporter mon aide à mes collab
 - SQL / PostgreSQL
 - Sqitch
 - Git & GitHub
+
+Pour voir l'API que j'ai codé en fin de formation :point_right: [**Repositories > rest-en-form-back**] (https://github.com/Laurent-srln/rest-en-form-back)
 
 ### :mailbox_with_mail: Contact
 
