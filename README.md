@@ -21,7 +21,13 @@ Rigoureux, curieux, autonome et proactif, j'aime apporter mon aide à mes collab
 - Sqitch
 - Git & GitHub
 
-Pour voir l'API que j'ai codé en fin de formation :point_right: [**Repositories > rest-en-form-back**] (https://github.com/Laurent-srln/rest-en-form-back)
+### :mag: Pour en savoir plus...
+
+L'API que j'ai codé en fin de formation :point_right: [**Repositories > rest-en-form-back**](https://github.com/Laurent-srln/rest-en-form-back)
+
+Les dossiers que j'ai présenté dans le cadre du Titre Professionnel - Développeur Web et Web Mobile :
+- [Dossier de Projet]() 
+- [Dossier Professionnel]() 
 
 ### :mailbox_with_mail: Contact
 
