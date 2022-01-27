@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 Je suis Laurent, un Développeur Web Junior Fullstack JS (avec une préférence assez marquée pour le backend) !
+🌱 Je suis Laurent, un Développeur Web Junior Fullstack JS (avec une préférence pour le backend) !
 
 ### :page_facing_up: :zap: En résumé
 
