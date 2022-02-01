@@ -26,7 +26,7 @@ Rigoureux, curieux, autonome et proactif, j'aime apporter mon aide à mes collab
 L'API que j'ai codé en fin de formation :point_right: [**Repositories > rest-en-form-back**](https://github.com/Laurent-srln/rest-en-form-back)
 
 Les dossiers que j'ai présenté dans le cadre du Titre Professionnel - Développeur Web et Web Mobile :
-- [Dossier de Projet](https://www.fichier-pdf.fr/2022/01/27/dossierdeprojet-tpdwwm-laurentseraline/) 
+- [Dossier de Projet](https://www.fichier-pdf.fr/2022/01/27/dossierdeprojet-tpdwwm-laurentseraline/) (dossier complet sur l'API codée en fin de formation)
 - [Dossier Professionnel](https://www.fichier-pdf.fr/2022/01/27/dossierprofessionnel-tpdwwm-laurent-seraline/) 
 
 ### :mailbox_with_mail: Contact
