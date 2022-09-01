@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋
 
 🌱 Je suis Laurent, un Développeur Web Junior Fullstack JS (avec une préférence pour le backend) !
 
