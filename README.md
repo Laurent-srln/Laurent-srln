@@ -1,6 +1,6 @@
 ### 👋
 
-🌱 Je suis Laurent, un Développeur Web Junior Fullstack JS (avec une préférence pour le backend) !
+🌱 Je suis Laurent, un Développeur Web Junior Fullstack JS (Node / Angular) !
 
 ### :page_facing_up: :zap: En résumé
 
@@ -14,6 +14,7 @@ Rigoureux, curieux, autonome et proactif, j'aime apporter mon aide à mes collab
 
 - HTML / CSS
 - JavaScript
+- Angular
 - NodeJS
 - NPM
 - ExpressJS
